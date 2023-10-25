@@ -9,13 +9,6 @@ Simple tic-tac-toe game built using HTML, CSS, and JavaScript. For more informat
 google-chrome index.html
 
 
-**Introduction**
-
-<p align="center">
-    <img alt="images" src="https://raw.githubusercontent.com/arasgungore/tic-tac-toe/main/images/screen.jpg" width="800">
-</p>
-
-
 **Rules**
 
 - Two players take turns: placing 'X' and 'O' marks in empty spaces on a 3x3 square grid.
